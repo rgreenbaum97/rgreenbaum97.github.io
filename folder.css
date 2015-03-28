@@ -1,0 +1,20 @@
+h1 { 
+	color: green; 
+	font-family: Times;
+}
+h3 {
+	color: white; 
+	font-family: Arial;  
+}
+h2 {
+	color: red;
+}
+
+#beckam {
+	width: 500px;
+}
+body {
+	background-image: url(brown.jpg);
+	background-size: 100% 2000px;
+
+}
